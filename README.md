@@ -1,6 +1,6 @@
 # Ponzu Backup
 
-## Bash
+## [Bash](https://github.com/ponzu-cms/backup-scripts/blob/master/bash/ponzu-backup.sh)
 ### Usage
 ```bash
 $ sh ponzu-backup.sh <user:password> <base url>
