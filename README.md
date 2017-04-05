@@ -1,12 +1,12 @@
 # Ponzu Backup
 
 ## [Bash](https://github.com/ponzu-cms/backup-scripts/blob/master/bash/ponzu-backup.sh)
-### Usage
+#### Usage
 ```bash
 $ sh ponzu-backup.sh <user:password> <base url>
 ```
 
-### Example
+#### Example
 ```bash
 $ sh ponzu-backup.sh gotoro:th3sush1ch3F https://api.ponzu-cms.org
 ```
